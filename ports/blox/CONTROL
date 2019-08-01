@@ -1,0 +1,4 @@
+Source: blox
+Version: 1.0
+Description: A block storage engine
+Build-Depends: boost-iterator, multihash
