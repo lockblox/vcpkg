@@ -1,0 +1,4 @@
+Source: multihash
+Version: 1.0
+Description: Self identifying hashes
+Build-Depends: cryptopp, ms-gsl, varint
