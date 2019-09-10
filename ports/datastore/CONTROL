@@ -1,0 +1,4 @@
+Source: datastore
+Version: 1.0
+Description: key-value datastore interfaces
+Build-Depends: lmdb,boost-iterator
