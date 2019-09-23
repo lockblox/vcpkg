@@ -1,0 +1,4 @@
+Source: vertex
+Version: 1.0
+Description: A graph library
+Build-Depends: boost-iterator
