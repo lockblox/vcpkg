@@ -1,0 +1,4 @@
+Source: drivex
+Version: 1.0
+Description: A library for developing filesystems using fuse/dokany
+Build-Depends: boost-filesystem
