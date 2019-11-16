@@ -1,0 +1,4 @@
+Source: multibase
+Version: 1.0
+Description: Self identifying base encodings
+Build-Depends: ms-gsl
