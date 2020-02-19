@@ -1,0 +1,4 @@
+Source: chunx
+Version: 1.0
+Description: Collection of data chunking strategies
+Build-Depends: boost-iterator, boost-tokenizer
